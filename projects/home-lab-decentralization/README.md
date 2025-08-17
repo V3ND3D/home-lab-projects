@@ -8,11 +8,11 @@ Designed and maintained a multi-device security lab focused on privacy, system h
 - Transition away from centralized tech ecosystems into local-first and privacy-preserving alternatives.
 
 ## 🧰 Tech Stack / Tools
-- Windows 11 Pro
-- macOS
-- Kali Linux
-- Proton (VPN, Drive, Mail)
-- PowerShell, Wireshark
+- Windows 11 Pro (host OS)
+- macOS (host OS)
+- Kali Linux (VMs on both platforms)
+- ProtonVPN, ProtonDrive, ProtonMail
+- PowerShell, Wireshark, VirtualBox/UTM
 
 ## 🔧 Features & Milestones
 - ✅ Multi-device hardening (Windows, macOS, Linux)
